@@ -1,8 +1,8 @@
-# H-vemi Blog
+#H-vemi 博客
 
 > 我的个人博客 — 生活 · 技术 · 摄影
 
-🌐 在线访问: https://H-vemi.github.io/H-vemi-blog
+在线访问：https://H-vemi.github.io/H-vemi-blog
 
 ---
 
@@ -43,7 +43,7 @@ xdg-open index.html
 ### 部署到 GitHub Pages
 
 1. 进入仓库 Settings → Pages
-2. Source 选择 `main` 分支
+2.源选择`main`分支
 3. 访问 `https://H-vemi.github.io/H-vemi-blog`
 
 ---
